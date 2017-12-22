@@ -7,3 +7,4 @@ Special thanks to these individuals:
 * Network Science from @Mridul_Seth
 * Idiomatic Pandas from @TedPetrou
 * Deep Learning from @SethHWeidman
+* Pandas: Heads to Tails from @TomAugspurger
